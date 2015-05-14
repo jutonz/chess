@@ -1,0 +1,5 @@
+require_relative '../util'
+require_relative '../board'
+require_relative '../chess'
+require_relative '../pieces/king'
+require_relative '../pieces/chess_piece'
